@@ -1,12 +1,3 @@
----
-title: "nlights"
-author: 'Luke Shepherd'
-numbersections: yes
-output:
-  html_document:
-    df_print: paged
----
-
 
 # Why this function exists
 
@@ -81,9 +72,9 @@ Your file tree should look like this:
     |   |   |---F121999.v4b_web.stable_lights.avg_vis.tif.gz
     |   |   |---README_V4.txt
 
-\
 
- You will need F121999.v4b_web.stable_lights.avg_vis.tif downloaded and have it in the Nightlight directory. This is the image that is used for the Elvigdge calibration.
+
+You will need F121999.v4b_web.stable_lights.avg_vis.tif downloaded and have it in the Nightlight directory. This is the image that is used for the Elvigdge calibration.
 
 You will need the leave the file names unchanged the exact names are used further down the code for subsetting and renaming.
 

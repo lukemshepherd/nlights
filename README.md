@@ -35,7 +35,7 @@ You will need these libraries:
 
 
 ## Quick Start:
-Don't change the file name of the images (SEE [MANUAL])
+**Don't change the file name of the images (SEE [MANUAL])**
 
 Calibration with (Elvidge 2014): `nlights(target, Sicily)`
 

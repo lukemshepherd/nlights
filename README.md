@@ -2,7 +2,7 @@
 
 R function that inter-calibrates nightlight images using either Elvidge(2014) or Wu(2013)
 
-See MANUAL for full explainations.
+See [MANUAL] for full explainations.
 
 Nightlight images can be downloaded from: https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html
 
@@ -35,7 +35,7 @@ You will need these libraries:
 
 
 ## Quick Start:
-Don't change the file name of the images (SEE MANUAL)
+Don't change the file name of the images (SEE [MANUAL])
 
 Calibration with (Elvidge 2014): `nlights(target, Sicily)`
 
@@ -43,3 +43,5 @@ Calibration with (Wu 2013) with maps and tsol: `nlights(target, Wu, map=TRUE , t
 
 *This is a slow function- give it time, it will work!*
 
+
+[MANUAL]:https://github.com/lukemshepherd/nlights/blob/master/nlights_MANUAL.md

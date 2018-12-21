@@ -1,7 +1,7 @@
 # nlights
 R function that inter-calibrates nightlight images
 
-See HTML for full explaination.
+See MANUAL for full explainations.
 
 Nightlight images can be downloaded from: https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html
 
